@@ -110,7 +110,7 @@ plotting.show()
 
 ###########################################################################
 # We can also study the effect of sex by computing the contrast, thresholding it
-# and plottun the resulting map.
+# and plot the resulting map.
 
 z_map = second_level_model.compute_contrast(second_level_contrast='sex',
                                             output_type='z_score')
