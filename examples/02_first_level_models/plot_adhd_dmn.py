@@ -7,10 +7,10 @@ Posterior Cingulate Cortex and saving the results.
 
 More specifically:
 
-1. A sequence of fMRI volumes are loaded
-2. A design matrix with the Posterior Cingulate Cortex seed is defined
-3. A GLM is applied to the dataset (effect/covariance, then contrast estimation)
-4. The Default Mode Network is displayed
+1. A sequence of fMRI volumes are loaded.
+2. A design matrix with the Posterior Cingulate Cortex seed is defined.
+3. A GLM is applied to the dataset (effect/covariance, then contrast estimation).
+4. The Default Mode Network is displayed.
 
 """
 import numpy as np

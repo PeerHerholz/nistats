@@ -14,11 +14,11 @@ http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2653076#R11
 
 More specifically:
 
-1. A sequence of fMRI volumes is loaded
-2. A design matrix describing all the effects related to the data is computed
-3. A mask of the useful brain volume is computed
+1. A sequence of fMRI volumes is loaded.
+2. A design matrix describing all the effects related to the data is computed.
+3. A mask of the useful brain volume is computed.
 4. A GLM is applied to the dataset (effect/covariance,
-   then contrast estimation)
+   then contrast estimation).
 
 Technically, this example shows how to handle two sessions that
 contain the same experimental conditions. The model directly returns a

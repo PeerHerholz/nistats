@@ -8,9 +8,9 @@ and visualizing the results.
 
 More specifically:
 
-1. A sequence of subject fMRI button press contrasts is downloaded
-2. A mask of the useful brain volume is computed
-3. A one-sample t-test is applied to the brain maps
+1. A sequence of subject fMRI button press contrasts is downloaded.
+2. A mask of the useful brain volume is computed.
+3. A one-sample t-test is applied to the brain maps.
 
 We focus on a given contrast of the localizer dataset: the motor response to
 left versus right button press. Both at the individual and group level, this is

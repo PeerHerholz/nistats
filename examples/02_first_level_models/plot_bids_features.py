@@ -12,11 +12,11 @@ Openneuro s3 bucket.
 
 More specifically:
 
-1. Download an fMRI BIDS dataset with derivatives from openneuro
-2. Extract first level model objects automatically from the BIDS dataset
-3. Demonstrate Quality assurance of Nistats estimation against available FSL
-   estimation in the openneuro dataset
-4. Display contrast plot and uncorrected first level statistics table report
+1. Download an fMRI BIDS dataset with derivatives from openneuro.
+2. Extract first level model objects automatically from the BIDS dataset.
+3. Demonstrate Quality assurance of Nistats estimation against available FSL.
+   estimation in the openneuro dataset.
+4. Display contrast plot and uncorrected first level statistics table report.
 
 
 

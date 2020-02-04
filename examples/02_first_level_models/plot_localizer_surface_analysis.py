@@ -6,10 +6,10 @@ sampled on the cortical surface and visualizing the results.
 
 More specifically:
 
-1. A sequence of fMRI volumes is loaded
-2. fMRI data are projected onto a reference cortical surface (the FreeSurfer template, fsaverage)
-3. A design matrix describing all the effects related to the data is computed
-4. A GLM is applied to the dataset (effect/covariance, then contrast estimation)
+1. A sequence of fMRI volumes is loaded.
+2. fMRI data are projected onto a reference cortical surface (the FreeSurfer template, fsaverage).
+3. A design matrix describing all the effects related to the data is computed.
+4. A GLM is applied to the dataset (effect/covariance, then contrast estimation).
 
 The result of the analysis are statistical maps that are defined on
 the brain mesh. We display them using Nilearn capabilities.
