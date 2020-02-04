@@ -342,7 +342,7 @@ plt.show()
 
 #########################################################################
 # The noise model: ar(1) or ols ?
-# ------------------------------
+# -------------------------------
 #
 # So far,we have implicitly used a lag-1 autoregressive model ---aka
 # ar(1)--- for the temporal structure of the noise. An alternative
