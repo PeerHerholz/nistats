@@ -123,7 +123,7 @@ for (fmri_img, confound, events) in zip(
 ############################################################################
 # Individual activation maps have been accumulated in the z_score_left
 # and az_scores_right lists respectively. We can now use them in a
-# group study (one -sample study).
+# group study (one-sample study).
 
 ############################################################################
 # Group study
