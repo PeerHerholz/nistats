@@ -56,7 +56,7 @@ data_dir, _ = fetch_openneuro_dataset(urls=urls)
 # From the dataset directory we automatically obtain FirstLevelModel objects
 # with their subject_id filled from the BIDS dataset. Moreover we obtain,
 # for each model, the list of run images and their respective events and
-# confound regressors. Confounders are inferred from the confounds.tsv files
+# confound regressors. Those are inferred from the confounds.tsv files
 # available in the BIDS dataset.
 # To get the first level models we have to specify the dataset directory,
 # the task_label and the space_label as specified in the file names.
