@@ -30,7 +30,7 @@ To run this example, you must launch IPython via ``ipython
 # purposes. It contains only the necessary
 # information to run a statistical analysis using Nistats. The raw data
 # subject folders only contain bold.json and events.tsv files, while the
-# derivatives folder includes thr preprocessed files preproc.nii and the
+# derivatives folder includes the preprocessed files preproc.nii and the
 # confounds.tsv files.
 from nistats.datasets import fetch_language_localizer_demo_dataset
 data_dir, _ = fetch_language_localizer_demo_dataset()
